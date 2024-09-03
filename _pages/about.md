@@ -44,9 +44,9 @@ Current LLMs typically rely on API calls to generate responses, but the time req
 **Work Responsibilities:**  
 Trained two converging RL algorithms, PPO and DQN, in StarCraft II.  
 Developed the SwiftReact framework:  
-Step 1: Environment Information Conversion: Analyzed and organized relevant game information, transforming it into a format more easily understood by LLMs to prevent hallucinations and errors in prior knowledge.
-Step 2: Strategy Generation: Combined the information from the first step with the Memory module, enabling LLMs to generate targeted strategies based on the available information.
-Step 3: Reward Model: Developed an LLM-specific reward function based on the generated strategies, and combined it with the RL reward function according to different weights to form a new Reward Model, which the RL then uses to execute corresponding commands.  
+Step 1: Environment Information Conversion: Analyzed and organized relevant game information, transforming it into a format more easily understood by LLMs to prevent hallucinations and errors in prior knowledge.  
+Step 2: Strategy Generation: Combined the information from the first step with the Memory module, enabling LLMs to generate targeted strategies based on the available information.  
+Step 3: Reward Model: Developed an LLM-specific reward function based on the generated strategies, and combined it with the RL reward function according to different weights to form a new Reward Model, which the RL then uses to execute corresponding commands.   
 
 
 
