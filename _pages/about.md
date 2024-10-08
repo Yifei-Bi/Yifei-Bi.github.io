@@ -20,11 +20,11 @@ Paper：
 ==============================
 ### Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study  
 Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu, Yifei Bi, Pengjie Gu, Xinrun Wang, Börje F. Karlsson, Bo An, Zongqing Lu
-##### | ICLR 2024 Workshop on LLM Agents | [Paper](https://openreview.net/forum?id=pmcFzuUxsP&referrer=%5Bthe%20profile%20of%20Bo%20An%5D(%2Fprofile%3Fid%3D~Bo_An2))  
+#### | ICLR 2024 Workshop on LLM Agents | [Paper](https://openreview.net/forum?id=pmcFzuUxsP&referrer=%5Bthe%20profile%20of%20Bo%20An%5D(%2Fprofile%3Fid%3D~Bo_An2))  
 
 ### Cradle: Empowering Foundation Agents Towards General Computer Control  
 Weihao Tan*, Wentao Zhang*, Xinrun Xu*, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang†, Börje F. Karlsson†, Bo An, Shuicheng Yan, Zongqing Lu  
-##### | Under review NeurIPS 2024 Dataset and benchmark Track | [Paper](https://arxiv.org/abs/2403.03186) | [Project](https://baai-agents.github.io/Cradle/)  
+#### | Under review NeurIPS 2024 Dataset and benchmark Track | [Paper](https://arxiv.org/abs/2403.03186) | [Project](https://baai-agents.github.io/Cradle/)  
 
   
 **Project Introduction:**  
@@ -37,7 +37,7 @@ Existing LLM Agents primarily interact with games or software through APIs, limi
 
 ### SwiftReact: Integrating Reinforcement Learning and Large Language Models for Enhanced Real-time Feedback  
 Yifei Bi, Chengzhi Liu, Yuxuan Huang, Chong Zhang, Kexiang Shuai, Hanling Wang, Zihong Luo, Haochen Xue, Linhua Dong, Xiaohui Zhu, Yong Yue, Jieming Ma  
-##### | Submitted to COLING | [Project](https://github.com/Shuaikx/SC2_Agent)  
+#### | Submitted to COLING | [Project](https://github.com/Shuaikx/SC2_Agent)  
 
 **Project Introduction:**  
 Current LLMs typically rely on API calls to generate responses, but the time required for these API calls makes it challenging to apply LLMs in real-time feedback scenarios, such as autonomous driving. To address this issue, we proposed the SwiftReact framework, which leverages the real-time feedback capabilities of reinforcement learning (RL) through a Reward Model, combined with the interpretability and strategic overview provided by LLMs. This framework enables the application of LLMs in real-time feedback scenarios and has been deployed in the real-time strategy game StarCraft II.  
