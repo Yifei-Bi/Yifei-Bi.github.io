@@ -20,14 +20,13 @@ Paper：
 ==============================
 ### Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study  
 Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu, Yifei Bi, Pengjie Gu, Xinrun Wang, Börje F. Karlsson, Bo An, Zongqing Lu  
-  
 ### | ICLR 2024 Workshop on LLM Agents | [Paper](https://openreview.net/forum?id=pmcFzuUxsP&referrer=%5Bthe%20profile%20of%20Bo%20An%5D(%2Fprofile%3Fid%3D~Bo_An2))  
 
 ### Cradle: Empowering Foundation Agents Towards General Computer Control  
 Weihao Tan*, Wentao Zhang*, Xinrun Xu*, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang†, Börje F. Karlsson†, Bo An, Shuicheng Yan, Zongqing Lu  
-  
 ### | Under review NeurIPS 2024 Dataset and benchmark Track | [Paper](https://arxiv.org/abs/2403.03186) | [Project](https://baai-agents.github.io/Cradle/)  
 
+  
 **Project Introduction:**  
 Existing LLM Agents primarily interact with games or software through APIs, limiting their applicability to software without available APIs and reducing their overall practicality. To address this issue, we developed a universal LLM Agent that takes the computer screen (and potentially audio) as input and produces keyboard and mouse operation commands as output, enabling the Agent to interact with various software applications. Our Agent has successfully performed interactions and completed tasks in ten different software and games, including *Red Dead Redemption 2*, Meitu, and Google.  
 
