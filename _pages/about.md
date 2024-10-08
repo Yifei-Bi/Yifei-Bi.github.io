@@ -19,7 +19,7 @@ In 2024, I graduated from the University of Liverpool with a First-Class Bachelo
 Paper：
 ==============================
 ### Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study  
-Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu, Yifei Bi, Pengjie Gu, Xinrun Wang, Börje F. Karlsson, Bo An, Zongqing Lu  
+Weihao Tan, Ziluo Ding, Wentao Zhang, Boyu Li, Bohan Zhou, Junpeng Yue, Haochong Xia, Jiechuan Jiang, Longtao Zheng, Xinrun Xu, Yifei Bi, Pengjie Gu, Xinrun Wang, Börje F. Karlsson, Bo An, Zongqing Lu
 ##### | ICLR 2024 Workshop on LLM Agents | [Paper](https://openreview.net/forum?id=pmcFzuUxsP&referrer=%5Bthe%20profile%20of%20Bo%20An%5D(%2Fprofile%3Fid%3D~Bo_An2))  
 
 ### Cradle: Empowering Foundation Agents Towards General Computer Control  
