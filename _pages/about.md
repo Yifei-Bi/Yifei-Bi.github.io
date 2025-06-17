@@ -24,6 +24,7 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 # 🔥 News
 - **2025.5** 🎉🎉  We release a paper on balancing reasoning and hallucination in multimodal reasoning models. 👉 Check our [paper](https://arxiv.org/abs/2505.21523) and [project](https://mlrm-halu.github.io/)
 - **2025.4** 🎉🎉  One papes is accepted by ACL 2025 , thanks for all of my collaborators.  Check it out in the [paper](https://arxiv.org/abs/2502.11903).
+- **2025.4** 🎉🎉  One papes is accepted by CVPR 2025 , thanks for all of my collaborators.  Check it out in the [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Seeing_Far_and_Clearly_Mitigating_Hallucinations_in_MLLMs_with_Attention_CVPR_2025_paper.html).
 - **2025.2** 🎉🎉  Two papers are accepted by ICLR 2025, thanks for all of my collaborators.  Check out our papers [MSSBench](https://arxiv.org/abs/2410.06172) and [ANTRP](https://openreview.net/forum?id=zGb4WgCW5i).
 - **2025.1** 🎉🎉  One paper is accepted by <span style="color:red;"><strong>AAAI 2025 Oral</strong></span>, thanks for all of my collaborators.  Check it out in the [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32570).
 
@@ -104,22 +105,6 @@ Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Shreedhar 
   </div>
 </div>
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">CVPR 2025</div>
-      <img src='images/cvpr.jpg' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-  [Seeing Far and Clearly: Mitigating Hallucinations in MLLMs with Attention Causal Decoding](https://openaccess.thecvf.com/content/CVPR2025/papers/Tang_Seeing_Far_and_Clearly_Mitigating_Hallucinations_in_MLLMs_with_Attention_CVPR_2025_paper.pdf)  
-  Feilong Tang<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Zhongxing Xu, Yifan Peng,  Xuelian Chen, Imran Razzak, Zongyuan Ge
-  
- [**Project**](https://mllms-farsight.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-  </div>
-</div>
 
 # 📖 Educations
 - *2021.09 - 2025.07*,  Bachelor, University of Liverpool, Liverpool, United Kingdom.
