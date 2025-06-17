@@ -24,7 +24,7 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 # 🔥 News
 - **2025.5** 🎉🎉  We release a paper on balancing reasoning and hallucination in multimodal reasoning models. 👉 Check our [paper](https://arxiv.org/abs/2505.21523) and [project](https://mlrm-halu.github.io/)
 - **2025.4** 🎉🎉  One papes is accepted by ACL 2025 , thanks for all of my collaborators.  Check it out in the [paper](https://arxiv.org/abs/2502.11903).
-- **2025.2** 🎉🎉  Two papers are accepted by ICLR 2025, thanks for all of my collaborators.  [MSSBench](https://arxiv.org/abs/2410.06172) | [ANTRP](https://openreview.net/forum?id=zGb4WgCW5i)
+- **2025.2** 🎉🎉  Two papers are accepted by ICLR 2025, thanks for all of my collaborators.  Check out our papers [MSSBench](https://arxiv.org/abs/2410.06172) and [ANTRP](https://openreview.net/forum?id=zGb4WgCW5i) for more details.
 - **2025.1** 🎉🎉  One paper is accepted by <span style="color:red;"><strong>AAAI 2025 Oral</strong></span>, thanks for all of my collaborators.  Check it out in the [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32570).
 
 # 📝 Publications 
@@ -41,13 +41,20 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 </div>
 </div>
 
-[Multimodal Situational Safety](https://arxiv.org/pdf/2410.06172a))
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICLR 2025</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang
+  [Multimodal Situational Safety](https://arxiv.org/abs/2410.06172)  
+  Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang  
+  [**Project**](https://mssbench.github.io/) • <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[**Project**](https://mssbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- 
-</div>
+  </div>
 </div>
 
 
