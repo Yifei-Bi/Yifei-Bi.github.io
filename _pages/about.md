@@ -41,7 +41,7 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/safety.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The hidden risks of large reasoning models: A safety assessment of r1](https://arxiv.org/abs/2502.12659)
