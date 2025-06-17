@@ -31,7 +31,7 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
   
   ["Intervening anchor token: Decoding strategy in alleviating hallucinations for MLLMs"](https://openreview.net/forum?id=zGb4WgCW5i)  
   Feilong Tang<sup>*</sup>, Zile Huang<sup>*</sup>, **Chengzhi Liu**, Qiang Sun, Harry Yang, Ser-Nam Lim
-
+- **2025.1** 🎉🎉  One paper is accepted by <span style="color:red;"><strong>AAAI 2025 Oral</strong></span>, thanks for all of my collaborators.  Check it out in the [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32570).
 
 # 📝 Publications 
 
