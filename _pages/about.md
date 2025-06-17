@@ -90,6 +90,22 @@ Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Shreedhar 
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2025</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Intervening anchor token: Decoding strategy in alleviating hallucinations for MLLMs](https://openreview.net/forum?id=zGb4WgCW5i)  
+  Feilong Tang<sup>*</sup>, Zile Huang<sup>*</sup>, **Chengzhi Liu**, Qiang Sun, Harry Yang, Ser-Nam Lim
+  
+ [**Project**](https://mssbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>| [![GitHub stars](https://img.shields.io/github/stars/Everlyn-Labs/ANTRP?style=social)](https://github.com/Everlyn-Labs/ANTRP)
+  </div>
+</div>
+
 
 
 # 🎖 Honors and Awards
