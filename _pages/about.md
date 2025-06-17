@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm an incoming PhD student at the University of California, Santa Barbara (UCSB), Department of Computer Science, advised by Dr. Erci Xin Wang. I am also in my final year as an undergraduate student at the School of Engineering, University of Liverpool. 
+Hi there! I'm an incoming PhD student at the [University of California, Santa Barbara](https://www.ucsb.edu/), [Department of Computer Science](https://www.cs.ucsb.edu/), advised by [Dr. Eric Xin Wang](https://eric-xw.github.io/). I am also in my final year as an undergraduate student at the School of Engineering, University of Liverpool. 
 
-My research interests lie in trustworthy AI and the algorithmic foundations of multimodal large models, with a focus on enhancing their reasoning capabilities, reliability, and interpretability across diverse input modalities. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=QC1kfNYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=QC1kfNYAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in trustworthy AI and the algorithmic foundations of multimodal large models, with a focus on enhancing their reasoning capabilities, reliability, and interpretability across diverse input modalities. I am always open to collaboration and the exchange of ideas. If you’d like to discuss potential research opportunities or simply connect, please don’t hesitate to reach out to me at **chengzhi@ucsb.edu**.
 
 
 # 🔥 News
