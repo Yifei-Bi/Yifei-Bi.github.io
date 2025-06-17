@@ -109,7 +109,7 @@ Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Shreedhar 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2025</div>
-      <img src='images/500x300.png' alt="sym" width="100%">
+      <img src='images/cvpr.jpg' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
