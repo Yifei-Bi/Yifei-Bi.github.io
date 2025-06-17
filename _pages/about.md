@@ -24,6 +24,7 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 # 🔥 News
 - **2025.5** 🎉🎉  
   We release a paper on balancing reasoning and hallucination in multimodal reasoning models. 👉 Check our [paper](https://arxiv.org/abs/2505.21523) and [project](https://mlrm-halu.github.io/)
+- **2025.4** 🎉🎉  Two papers are accepted by ACL 2025 , thanks for all of my collaborators.
 - **2025.2** 🎉🎉  Two papers are accepted by ICLR 2025, thanks for all of my collaborators.  
   ["Multimodal situational safety"](https://arxiv.org/abs/2410.06172)  
   Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang
