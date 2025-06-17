@@ -22,7 +22,8 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 
 
 # 🔥 News
-- *2025.1*:🎉🎉 111111
+- *2025.5*:🎉🎉 We release a paper on balancing reasoning and hallucination in multimodal reasoning models — [Paper](https://arxiv.org/abs/2505.21523) | [Code](https://github.com/MLRM-Halu/MLRM-Halu) | [Website](https://mlrm-halu.github.io/)
+
 
 
 # 📝 Publications 
