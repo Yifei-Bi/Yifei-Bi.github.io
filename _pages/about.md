@@ -61,6 +61,23 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
 </div>
 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2025</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/32570)  
+  **Chengzhi Liu**<sup>*</sup>, Zile Huang<sup>*</sup>, Zhe Chen, Feilong Tang, Yu Tian,  Zhongxing Xu, Zihong Luo, Yalin Zheng,  Yanda Meng
+  
+ [**Project**](https://imdr-aaai.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </div>
+</div>
+
+
 
 
 # 🎖 Honors and Awards
