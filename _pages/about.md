@@ -56,8 +56,7 @@ My research interests lie in trustworthy AI and the algorithmic foundations of m
   [Multimodal Situational Safety](https://arxiv.org/abs/2410.06172)  
   Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang  
   
-  [**Project**](https://mssbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/eric-ai-lab/MSSBench)
-
+ [**Project**](https://mssbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/eric-ai-lab/MSSBench)
   </div>
 </div>
 
