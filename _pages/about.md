@@ -21,7 +21,7 @@ Hi! I'm a Master student at the [Georgia Institute of Technology](https://www.ga
 
 Before this, I successfully graduated from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh) and obtained a first-class degree from the [University of Liverpool](https://www.liverpool.ac.uk/), UK. My undergraduate graduation project supervisors were [Yong Yue](https://scholar.xjtlu.edu.cn/en/persons/YongYue) and [Xiaohui Zhu](https://scholar.xjtlu.edu.cn/en/persons/XiaohuiZhu).  
 
-My research interested in LLM Agent and Reinforcement Learning, with a focus on using RL to improve the general capabilities of LLM Agent. I am also looking for the possibility of employment in Fall 26. If you are interested in me, please feel free to contact me.  
+My research interested in LLM Agent and Reinforcement Learning, with a focus on using RL to improve the general capabilities of LLM Agent.   
 
 
 # 🔥 News
