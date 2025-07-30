@@ -24,69 +24,26 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
 
 
 # 🔥 News
-- **2025.5** 🎉🎉  We release a paper on balancing reasoning and hallucination in multimodal reasoning models. 👉 Check our [paper](https://arxiv.org/abs/2505.21523) and [project](https://mlrm-halu.github.io/)
-- **2025.4** 🎉🎉  One papes is accepted by ACL 2025 , thanks for all of my collaborators.  Check it out in the [paper](https://arxiv.org/abs/2502.11903).
-- **2025.4** 🎉🎉  One papes is accepted by CVPR 2025 , thanks for all of my collaborators.  Check it out in the [paper](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_Seeing_Far_and_Clearly_Mitigating_Hallucinations_in_MLLMs_with_Attention_CVPR_2025_paper.html).
-- **2025.2** 🎉🎉  Two papers are accepted by ICLR 2025, thanks for all of my collaborators.  Check out our papers [MSSBench](https://arxiv.org/abs/2410.06172) and [ANTRP](https://openreview.net/forum?id=zGb4WgCW5i).
-- **2025.1** 🎉🎉  One paper is accepted by <span style="color:red;"><strong>AAAI 2025 Oral</strong></span>, thanks for all of my collaborators.  Check it out in the [paper](https://ojs.aaai.org/index.php/AAAI/article/view/32570).
+- **2025.5** 🎉🎉  One papes is accepted by ICML 2025 , thanks for all of my collaborators.  Check it out in the [Cralde](https://arxiv.org/abs/2403.03186)
+- **2025.4** 🎉🎉  I am fortunate to join Tencent IEG's Turing lab for internship and participated in the work of GUI Agent. 
+- **2025.2** 🎉🎉  One papers are accepted by ICLR 2025, thanks for all of my collaborators.  Check out our papers [LastDe](https://arxiv.org/abs/2410.06072)   
 
 
-# 💥 Preprints
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/more.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models](https://arxiv.org/abs/2505.21523)
-
-**Chengzhi Liu**<sup>*</sup>, Zhongxing Xu<sup>*</sup>, Qinyue Wei, Juncheng Wu, James Zou, Xin Eric Wang, Yuyin Zhou, Sheng Liu
-
-[**Project**](https://mlrm-halu.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/MLRM-Halu/MLRM-Halu?style=social)](https://github.com/MLRM-Halu/MLRM-Halu)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/safety.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[The hidden risks of large reasoning models: A safety assessment of r1](https://arxiv.org/abs/2502.12659)
-
-Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Shreedhar Jangam, Jayanth Srinivasa, Gaowen Liu, Dawn Song, Xin Eric Wang
-
-[**Project**](https://r1-safety.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
-
-# 📝 Selected Publications 
+# 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ICLR 2025</div>
-      <img src='images/mssbench.jpg' alt="sym" width="100%">
+      <div class="badge">ICML 2025</div>
+      <img src='images/cradle.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Multimodal Situational Safety](https://arxiv.org/abs/2410.06172)  
+  [Cradle: Empowering Foundation Agents Towards General Computer Control](https://arxiv.org/abs/2403.03186)  
   Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang  
-  
- [**Project**](https://mssbench.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/eric-ai-lab/MSSBench)
-  </div>
-</div>
-
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">AAAI 2025</div>
-      <img src='images/aaai.jpg' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-  [Incomplete Modality Disentangled Representation for Ophthalmic Disease Grading and Diagnosis](https://ojs.aaai.org/index.php/AAAI/article/view/32570)  
-  **Chengzhi Liu**<sup>*</sup>, Zile Huang<sup>*</sup>, Zhe Chen, Feilong Tang, Yu Tian,  Zhongxing Xu, Zihong Luo, Yalin Zheng,  Yanda Meng
-  
- [**Project**](https://imdr-aaai.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  Weihao Tan<sup>*</sup>, Wentao Zhang<sup>*</sup>, Xinrun Xu<sup>*</sup>, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, **Yifei Bi**, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu
+ [**Project**](https://baai-agents.github.io/Cradle/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/BAAI-Agents/Cradle)
   </div>
 </div>
 
@@ -95,19 +52,37 @@ Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Shreedhar 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICLR 2025</div>
-      <img src='images/iclr.jpg' alt="sym" width="100%">
+      <img src='images/AIGC.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Intervening anchor token: Decoding strategy in alleviating hallucinations for MLLMs](https://openreview.net/forum?id=zGb4WgCW5i)  
-  Feilong Tang<sup>*</sup>, Zile Huang<sup>*</sup>, **Chengzhi Liu**, Qiang Sun, Harry Yang, Ser-Nam Lim
+  [Training-free LLM-generated Text Detection by Mining Token Probability Sequences](https://arxiv.org/abs/2410.06072)  
+  Yihuai Xu<sup>*</sup>, Yongwei Wang<sup>*</sup>, **Yifei Bi**, Huangsen Cao, Zhouhan Lin, Yu Zhao, Fei Wu
   
- [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>| [![GitHub stars](https://img.shields.io/github/stars/Everlyn-Labs/ANTRP?style=social)](https://github.com/Everlyn-Labs/ANTRP)
+ [**Project**](https://github.com/TrustMedia-zju/Lastde_Detector) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Preprint</div>
+      <img src='images/gui.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation for GUI Agent]  
+  Bin Kang<sup>*</sup>, Shaoguo Wen<sup>*</sup>, **Yifei Bi**, Shunlong Wu, Xinbin Yuan, tengyao tu, Zixing Guo, Wensheng Cao, Junle Wang
+ [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  </div>
+</div>
+
+#
 
 # 📖 Educations
-- *2021.09 - 2025.07*,  Bachelor, University of Liverpool, Liverpool, United Kingdom.
-- *2025.09 - 2030.06*,  Ph.D., University of California, Santa Barbara, Santa Barbara, CA, United States.
+- *2020.09 - 2024.06*,  Bachelor, Xi'an Jiaotong-Liverpool University, Suzhou.
+- *2020.09 - 2024.06*,  Bachelor, University of Liverpool, Liverpool, United Kingdom.
+- *2024.08 - 2026.05*,  Master, Georgia Institute of Technology, GA, United States.
