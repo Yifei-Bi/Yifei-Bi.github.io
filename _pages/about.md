@@ -15,7 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>  
+  
 Hi! I'm a Master student at the [Georgia Institute of Technology](https://www.gatech.edu/), [College of Engineering](https://coe.gatech.edu/). At the same time, I am looking for a Professor for my graduation project. 
 
 Before this, I successfully graduated from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh) and obtained a first-class degree from the [University of Liverpool](https://www.liverpool.ac.uk/), UK. My undergraduate graduation project supervisors were [Yong Yue](https://scholar.xjtlu.edu.cn/en/persons/YongYue) and [Xiaohui Zhu](https://scholar.xjtlu.edu.cn/en/persons/XiaohuiZhu).  
@@ -41,8 +42,7 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
   <div class='paper-box-text' markdown="1">
 
   [Cradle: Empowering Foundation Agents Towards General Computer Control](https://arxiv.org/abs/2403.03186)  
-  Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang  
-  Weihao Tan<sup>*</sup>, Wentao Zhang<sup>*</sup>, Xinrun Xu<sup>*</sup>, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, **Yifei Bi**, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu
+  Weihao Tan<sup>*</sup>, Wentao Zhang<sup>*</sup>, Xinrun Xu<sup>*</sup>, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, **Yifei Bi**, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu  
  [**Project**](https://baai-agents.github.io/Cradle/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/BAAI-Agents/Cradle?style=social)](https://github.com/BAAI-Agents/Cradle)
   </div>
 </div>
@@ -58,7 +58,7 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
   <div class='paper-box-text' markdown="1">
 
   [Training-free LLM-generated Text Detection by Mining Token Probability Sequences](https://arxiv.org/abs/2410.06072)  
-  Yihuai Xu<sup>*</sup>, Yongwei Wang<sup>*</sup>, **Yifei Bi**, Huangsen Cao, Zhouhan Lin, Yu Zhao, Fei Wu
+  Yihuai Xu<sup>*</sup>, Yongwei Wang<sup>*</sup>, **Yifei Bi**, Huangsen Cao, Zhouhan Lin, Yu Zhao, Fei Wu  
   
  [**Project**](https://github.com/TrustMedia-zju/Lastde_Detector) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </div>
@@ -74,8 +74,8 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation for GUI Agent]  
-  Bin Kang<sup>*</sup>, Shaoguo Wen<sup>*</sup>, **Yifei Bi**, Shunlong Wu, Xinbin Yuan, tengyao tu, Zixing Guo, Wensheng Cao, Junle Wang
+  [LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation for GUI Agent](https://yifei-bi.github.io/)  
+  Bin Kang<sup>*</sup>, Shaoguo Wen<sup>*</sup>, **Yifei Bi**, Shunlong Wu, Xinbin Yuan, tengyao tu, Zixing Guo, Wensheng Cao, Junle Wang  
  [**Project**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   </div>
 </div>
