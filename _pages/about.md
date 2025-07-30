@@ -80,9 +80,11 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
   </div>
 </div>
 
-#
+# 💥 Internship
+- *2025.04 - 2024.08*,  Tencent, IEG, Turing Lab  
+- *2024.10 - 2025.03*,  PingAn, LLM  
 
 # 📖 Educations
-- *2020.09 - 2024.06*,  Bachelor, Xi'an Jiaotong-Liverpool University, Suzhou.
-- *2020.09 - 2024.06*,  Bachelor, University of Liverpool, Liverpool, United Kingdom.
-- *2024.08 - 2026.05*,  Master, Georgia Institute of Technology, GA, United States.
+- *2020.09 - 2024.06*,  Bachelor, Xi'an Jiaotong-Liverpool University, Suzhou.  
+- *2020.09 - 2024.06*,  Bachelor, University of Liverpool, Liverpool, United Kingdom.  
+- *2024.08 - 2026.05*,  Master, Georgia Institute of Technology, GA, United States.  
