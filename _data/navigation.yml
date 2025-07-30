@@ -6,11 +6,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Preprints"
-    url: "/#-preprints"
+  - title: "Publications"
+    url: "/#-Publications"
 
-  - title: "Selected Publications"
-    url: "/#-selected-publications"
+  - title: "Internship"
+    url: "/#-Internship"
 
   - title: "Educations"
     url: "/#-educations"
