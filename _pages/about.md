@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm an incoming PhD student at the [University of California, Santa Barbara](https://www.ucsb.edu/), [Department of Computer Science](https://www.cs.ucsb.edu/), advised by [Dr. Eric Xin Wang](https://eric-xw.github.io/). I am also in my final year as an undergraduate student at the School of Engineering, University of Liverpool. 
+Hi! I'm a Master student at the [Georgia Institute of Technology](https://www.gatech.edu/), [College of Engineering](https://coe.gatech.edu/). At the same time, I am looking for a Professor for my graduation project. Before this, I successfully graduated from [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/zh) and obtained a first-class degree from the [University of Liverpool](https://www.liverpool.ac.uk/), UK. My undergraduate graduation project supervisors were [Yong Yue](https://scholar.xjtlu.edu.cn/en/persons/YongYue) and [Xiaohui Zhu](https://scholar.xjtlu.edu.cn/en/persons/XiaohuiZhu).  
 
-My research interests lie in trustworthy AI and the algorithmic foundations of multimodal large models, with a focus on enhancing their reasoning capabilities, reliability, and interpretability across diverse input modalities. I am always open to collaboration and the exchange of ideas. If you’d like to discuss potential research opportunities or simply connect, please don’t hesitate to reach out to me at **chengzhi@ucsb.edu**.
+My research interested in LLM Agent and Reinforcement Learning, with a focus on using RL to improve the general capabilities of LLM Agent. I am also looking for the possibility of employment in Fall 26. If you are interested in me, please feel free to contact me.  
 
 
 # 🔥 News
