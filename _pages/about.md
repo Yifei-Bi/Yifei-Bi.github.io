@@ -43,7 +43,7 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
   [Cradle: Empowering Foundation Agents Towards General Computer Control](https://arxiv.org/abs/2403.03186)  
   Kaiwen Zhou<sup>*</sup>, **Chengzhi Liu**<sup>*</sup>, Xuandong Zhao, Anderson Compalas, Dawn Song, Xin Eric Wang  
   Weihao Tan<sup>*</sup>, Wentao Zhang<sup>*</sup>, Xinrun Xu<sup>*</sup>, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, **Yifei Bi**, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu
- [**Project**](https://baai-agents.github.io/Cradle/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/eric-ai-lab/MSSBench?style=social)](https://github.com/BAAI-Agents/Cradle)
+ [**Project**](https://baai-agents.github.io/Cradle/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | [![GitHub stars](https://img.shields.io/github/stars/BAAI-Agents/Cradle?style=social)](https://github.com/BAAI-Agents/Cradle)
   </div>
 </div>
 
@@ -52,7 +52,7 @@ My research interested in LLM Agent and Reinforcement Learning, with a focus on 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICLR 2025</div>
-      <img src='images/AIGC.png' alt="sym" width="100%">
+      <img src='images/iclr.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
